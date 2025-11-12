@@ -26,6 +26,7 @@ Watch Demo Video Here
 - Image Caching: cached_network_image
 
 📂 Project Structure
+```bash
 lib/
 ├── main.dart                 # App entry point
 ├── models/
@@ -43,6 +44,7 @@ lib/
 │   └── price_chart.dart     # Chart widget
 └── utils/
     └── formatters.dart      # Formatting utilities
+```
 🚀 Getting Started
 Prerequisites
 Flutter SDK (3.9.2 or higher)
