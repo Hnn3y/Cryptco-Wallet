@@ -16,14 +16,15 @@ Watch Demo Video Here
 
 
 ### 🛠️ Tech Stack
-Framework: Flutter 3.9+
-State Management: Provider
-API: CoinGecko API
-Charts: fl_chart
-Networking: http
-Storage: shared_preferences
-Connectivity: connectivity_plus
-Image Caching: cached_network_image
+- Framework: Flutter 3.9+
+- State Management: Provider
+- API: CoinGecko API
+- Charts: fl_chart
+- Networking: http
+- Storage: shared_preferences
+- Connectivity: connectivity_plus
+- Image Caching: cached_network_image
+
 📂 Project Structure
 lib/
 ├── main.dart                 # App entry point
