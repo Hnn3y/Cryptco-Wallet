@@ -2,14 +2,14 @@
 A modern, feature-rich cryptocurrency wallet app built with Flutter that integrates with the CoinGecko API to display real-time crypto data.
 
 ## 📱 Features
-✅ Real-time Crypto Data - Live prices, market cap, and 24h changes
-✅ Interactive Charts - View price trends (24H, 7D, 30D, 1Y)
-✅ Search Functionality - Quick search for any cryptocurrency
-✅ Favorites System - Save your favorite coins for quick access
-✅ Detailed Coin View - Comprehensive stats and information
-✅ Offline Support - Graceful handling of network issues
-✅ Pull to Refresh - Easy data updates
-✅ Modern UI/UX - Beautiful Web3-inspired dark theme
+- ✅ Real-time Crypto Data - Live prices, market cap, and 24h changes
+- ✅ Interactive Charts - View price trends (24H, 7D, 30D, 1Y)
+- ✅ Search Functionality - Quick search for any cryptocurrency
+- ✅ Favorites System - Save your favorite coins for quick access
+- ✅ Detailed Coin View - Comprehensive stats and information
+- ✅ Offline Support - Graceful handling of network issues
+- ✅ Pull to Refresh - Easy data updates
+- ✅ Modern UI/UX - Beautiful Web3-inspired dark theme
 
 ## 🎥 Demo Video
 Watch Demo Video Here
