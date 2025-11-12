@@ -1,4 +1,4 @@
-# CrypCo Wallet App 
+# CryptCo Wallet App 
 A modern, feature-rich cryptocurrency wallet app built with Flutter that integrates with the CoinGecko API to display real-time crypto data.
 
 ## 📱 Features
